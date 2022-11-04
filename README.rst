@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+This is a tutorial for causality using pyAgrum and numpyro. 
+
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This tutorial focuses on: 
+1. Causal Discovery 
+2. Parameterisation 
+3. Inference: Associational, Inference, Counterfactual 
